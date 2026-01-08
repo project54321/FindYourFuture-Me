@@ -138,7 +138,7 @@ http://localhost:5173
 
 ---
 
-## 🔌 API Overview
+## API Overview
 
 Example endpoints (may vary based on implementation):
 
