@@ -158,7 +158,7 @@ http://localhost:8000/docs
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. The user completes a short quiz on the frontend
 2. Quiz responses are sent to the FastAPI backend
@@ -168,7 +168,7 @@ http://localhost:8000/docs
 
 ---
 
-## 🌱 Future Improvements
+## Future Improvements
 
 * User accounts and saved results
 * Improved recommendation accuracy with ML
@@ -178,13 +178,13 @@ http://localhost:8000/docs
 
 ---
 
-## 📝 License
+## License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 * Built with FastAPI and Vite
 * Inspired by students who had difficulties making academic and career decisions
