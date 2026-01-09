@@ -129,7 +129,7 @@ function App() {
   Please be practical, encouraging, and concise.`
 
     try {
-      const response = await fetch('/api/gpt', {
+      const response = await fetch('https://find-your-future-me-b.vercel.app/api/gpt', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
